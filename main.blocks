@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="i^`ANo0ZZDyXY5Y)K4e*">nivel</variable><variable id="jR73*4TJKGLqCfQ.pY0=">UMBRAL_VERDE</variable><variable id=":YJI@%GSwA)rV=(r-EXD">UMBRAL_YELLOW</variable></variables><comment id="B^q:RU%bIY95!TL}PPC#" x="414" y="317" w="480" h="200">
+─── Inspector de Ruido — micro:bit v2 ──────────────────
+Conectado al PC por USB | MakeCode
+Botón A → muestra valor numérico en display
+Botón B → envía lectura a la consola serie del PC
+────────────────────────────────────────────────────────
+</comment></xml>
